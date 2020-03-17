@@ -7,9 +7,7 @@ nav_order: 2
 
 # Raag Bhoopali
 
-Bhoopali, also known as Bhoop, Bhopali or Bhupali, (Hin: भूपाली / भोपाली) is a Hindustani classical raga. It is a pentatonic scale (uses 5 notes in ascending and descending scale).  
-
-Most of the songs in this raga are based on Bhakti rasa. The same raga in Carnatic music is known as Mohanam. Raga Bhoopali, Raga Yaman and Raga Bhairav tend to be the three basic ragas of Hindustani music, learnt first by its students. More @ [https://en.wikipedia.org/wiki/Bhoopali]  
+[wiki](https://en.wikipedia.org/wiki/Bhoopali){: .btn .btn-purple }
 
 ---
 
