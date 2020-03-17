@@ -144,70 +144,52 @@ Practice: Bandish 160 BPM, Aalap 80 BPM, Tana 320 BPM
 
 Note: *When we are repeating a line in the bandish more than twice to break its monotony we introduce an Aalap. Below Aalap is noting but subsequent combinations from the Chalan Table above. Here we are introducting two sets of 4 swars as Aalap. When a set has less than 4 swars we simply fill in empty space □ i.e. time to catch a breath. e.g. PG becomes P□G□, GRS becomes GRS□ & so forth.*
 
-```
-Bandish    
+```  
+GRSR SḌSR G_GR SRS_  
+जब से तुम संग लागे री मोर  
+  
+GRS□ P̣ḌS□ Aalap  
+  
 GRSR SḌSR G_GR SRS_  
 जब से तुम संग लागे री मोर  
 
-Aalap  
-GRS□ P̣ḌS□  
-
-Bandish   
+P̣ḌS□ ḌSRG Aalap    
+ 
 GRSR SḌSR G_GR SRS_  
 जब से तुम संग लागे री मोर  
-
-Aalap   
-P̣ḌS□ ḌSRG  
-
-Bandish  
+ 
+ḌSRG P□G□ Aalap  
+   
 GRSR SḌSR G_GR SRS_  
 जब से तुम संग लागे री मोर  
-
-Aalap   
-ḌSRG P□G□   
-
-Bandish   
-GRSR SḌSR G_GR SRS_  
-जब से तुम संग लागे री मोर  
-
-Bandish    
+    
 G_GR GPḊS PṠDP GRS_   
 प्रीत नवेली प्यारे बलमा x 2  
-
-Bandish    
+   
 GRSR SḌSR G_GR SRS_  
 जब से तुम संग लागे री मोरी x 2
-
-Bandish  
+ 
 GGGG PPDP Ṡ_ṠṠ ṠṘṠ   
 जो ना देखु तोहे इक पल   
-
-Aalap   
-P□G□ DPG□  
-
-Bandish    
+ 
+P□G□ DPG□ Aalap  
+    
 GGGG PPDP Ṡ_ṠṠ ṠṘṠ   
 जो ना देखु तोहे इक पल    
-
-Aalap   
-DPG□ GPDṠ
-
-Bandish  
+  
+DPG□ GPDṠ Aalap  
+  
 GGGG PPDP Ṡ_ṠṠ ṠṘṠ   
 जो ना देखु तोहे इक पल  
-
-Aalap   
-GPDṠ ĠṘṠ   
-
-Bandish  
+ 
+GPDṠ ĠṘṠ Aalap     
+ 
 GGGG PPDP Ṡ_ṠṠ ṠṘṠ   
 जो ना देखु तोहे इक पल       
-
-Bandish  
+  
 ṠṘĠṘ ṠṘṠD PṠDP GRS_  
 कल ना परत मोहे - चरचा करे सब x 2  
-
-Bandish  
+ 
 GGGG PPDP Ṡ_ṠṠ ṠṘṠ   
 जो ना देखु तोहे इक पल x 2  
 ```
