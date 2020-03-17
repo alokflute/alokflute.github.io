@@ -2,7 +2,7 @@
 layout: default
 title: Bhoopali
 parent: Raagas
-nav_order: 3
+nav_order: 2
 ---
 
 # Raag Bhoopali
