@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bhoopali
-parent: Raagas
+parent: raagas
 nav_order: 1
 ---
 
