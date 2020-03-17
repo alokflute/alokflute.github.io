@@ -13,23 +13,22 @@ Most of the songs in this raga are based on Bhakti rasa. The same raga in Carnat
 
 ---
 
-? | ✓ 
------------- | ------------- 
-Jati | Audav   
-Thaat | Kalyan   
-Vaadi | G   
-Samvadi | D   
-Anuvadi | S, R, P   
-Varjid | M, N    
-Time | 6 to 9 PM      
+## Introduction
 
+Jati: Audav   
+Thaat: Kalyan   
+Vaadi: G   
+Samvadi: D   
+Anuvadi: S, R, P   
+Varjid: M, N    
+Time: 6 to 9 PM      
 
 ```
 Aaroh: SRGPDṠ   
 Avroh: ṠRGPDS    
 Pakad: GRS DSRG PG DPG  
 ```
-
+---
 ## Palta
 Practice: Speed variations (1gun, 2gun, 4gun, 8gun), 160 BPM, Tintal, combination of 2 or more paltas  
 
@@ -58,7 +57,7 @@ Avroh: ĠD ṘP ṠG DR PS
 Aaroh: SRG RGP GPD PDṠ DṠṘ ṠṘĠ      
 Avroh: ĠṘṠ ṘṠD ṠDP DPG PGR GRS  
 ```
-
+---
 ## Chalan
 Practice: 5 seconds halt after each (,), begnning S & Avroh always 1gun  
 
@@ -109,7 +108,7 @@ S, 1+2+3+4 x4, 2+3+4+5 x4, 3+4+5+6 x4, 4+5+6+•1 x4, 5+6+•1+•2 x4, 6+•1+�
 S, 1+2+3+4+5 x4, 2+3+4+5+6 x4, 3+4+5+6+•1 x4, 4+5+6+•1+•2 x4, 5+6+•1+•2+•3 x4, 6+•1+•2+•3+•4 x4, Avroh } 8gun       
 S, 1+2+3+4+5+6 x4, 2+3+4+5+6+•1 x4, 3+4+5+6+•1+•2 x4, 4+5+6+•1+•2+•3 x4, 5+6+•1+•2+•3+•4 x4, 6+•1+•2+•3+•4+•5 x4, Avroh } 8gun 
 ```
-
+---
 ## Bandish
 
 ### Bandish 1
